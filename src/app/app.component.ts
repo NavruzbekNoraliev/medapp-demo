@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'mecuris';
+  camera_orbit = '45deg 55deg 2.5m';
+  src = 'https://modelviewer.dev/shared-assets/models/Astronaut.glb';
 }
